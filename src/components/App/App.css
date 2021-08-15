@@ -1,0 +1,128 @@
+header {
+  background-color: rgb(229, 229, 229);
+  padding: 41px 0 0 0;
+}
+
+
+h1 {
+  position: absolute;
+  width: 975px;
+  height: 19px;
+  left: 319px;
+  top: 51px;
+
+  font-family: Arvo;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 44px;
+
+  color: #ffffff;
+
+}
+
+
+
+.body{
+  background-color: rgba(102, 102, 102, 1);
+  padding: 41px 0 0 0;
+}
+.auto{
+  position: absolute;
+  width: 961px;
+  height: 900px;
+  left: 319px;
+  top: 104px;
+
+  background: rgba(255, 255, 255, 1);
+  border-radius: 17px;
+}
+.AVGprice{
+  position: absolute;
+  width: 265px;
+  height: 46px;
+  right: 10px;
+  top: 404px;
+
+  background: #F9DCC8;
+  border-radius: 18px;
+}
+.AVGprice > div, .AVGkm > div, .Note > div {
+  margin-top: -20px;
+  color: #ffffff;
+}
+.AVGkm{
+  position: absolute;
+  width: 265px;
+  height: 46px;
+  right: 10px;
+  top: 489px;
+
+  background: #F9DCC8;
+  border-radius: 18px;
+}
+.Note{
+  position: absolute;
+  width: 465px;
+  height: 146px;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+  right: 310px;
+  top: 265px;
+  background: #3D60D9;
+  opacity: 0.7;
+  box-shadow: 11px 11px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+}
+.Folder{
+  padding: 10px;
+  position: absolute;
+  width: 318px;
+  height: 100px;
+  left: -260px;
+  top: 278px;
+
+  background: #1653c4;
+  border-radius: 19px;
+}
+.Folder2{
+  padding: 10px;
+  position: absolute;
+  width: 318px;
+  height: 100px;
+  left: -260px;
+  top: 408px;
+  background: #59D70D;
+  opacity: 0.4;
+  box-shadow: 11px 11px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+}
+.Folder3{
+  padding: 10px;
+  position: absolute;
+  width: 318px;
+  height: 100px;
+  left: -260px;
+  top: 548px;
+  background: #FF0000;
+  opacity: 0.7;
+  border-radius: 7px;
+}
+
+
+.carIcon{
+  position: absolute;
+  width: 48px;
+  height: 50px;
+  left: 100px;
+  top: 278px;
+}
+
+.paper {
+  position: absolute;
+  width: 800px;
+  background-color: #424242;;
+  border: 2px solid #000;
+  box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.20), 0px 5px 8px 0px rgba(0, 0, 0, 0.14), 0px 1px 14px 0px rgba(0, 0, 0, 0.12);
+
+}
