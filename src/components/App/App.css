@@ -1,12 +1,13 @@
+
 header {
-  background-color: rgb(229, 229, 229);
+  background-color: rgb(34, 82, 23);
   padding: 41px 0 0 0;
 }
 
 
 h1 {
   position: absolute;
-  width: 975px;
+  width: 1975px;
   height: 19px;
   left: 319px;
   top: 51px;
@@ -17,27 +18,24 @@ h1 {
   font-size: 36px;
   line-height: 44px;
 
-  color: #ffffff;
+  color: #55de2f;
 
 }
 
-
-
 .body{
-  background-color: rgba(102, 102, 102, 1);
+  background-color: #55de2f;
   padding: 41px 0 0 0;
 }
 .auto{
   position: absolute;
-  width: 961px;
+  width: 1920px;
   height: 900px;
   left: 319px;
   top: 104px;
 
-  background: rgba(255, 255, 255, 1);
-  border-radius: 17px;
 }
 .AVGprice{
+  background-color: #55de2f;
   position: absolute;
   width: 265px;
   height: 46px;
@@ -50,8 +48,10 @@ h1 {
 .AVGprice > div, .AVGkm > div, .Note > div {
   margin-top: -20px;
   color: #ffffff;
+  background-color: #55de2f;
 }
 .AVGkm{
+
   position: absolute;
   width: 265px;
   height: 46px;
@@ -62,6 +62,7 @@ h1 {
   border-radius: 18px;
 }
 .Note{
+
   position: absolute;
   width: 465px;
   height: 146px;
@@ -116,6 +117,7 @@ h1 {
   height: 50px;
   left: 100px;
   top: 278px;
+  background-color: #55de2f;
 }
 
 .paper {

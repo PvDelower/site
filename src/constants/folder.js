@@ -1,19 +1,19 @@
 
 export default [
     {
-        id: 'rio-rio',
-        name: 'Kia Rio III'
+        id: '1',
+        name: 'papka'
     },
     {
-        id: 'camry-camry',
-        name: 'Toyota Camry VII'
+        id: 'p2',
+        name: 'papka2'
     },
     {
-        id: 'polo',
-        name: 'Volkswagen Polo V'
+        id: '3',
+        name: 'papk3'
     },
     {
-        id: 'solaris',
-        name: 'Hyundai Solaris I'
+        id: '4',
+        name: 'papka4 I'
     },
 ]
